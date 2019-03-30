@@ -64,6 +64,7 @@ topics:
     
   - name: SAS
     web_url: https://github.com/topics/sas
+    image_url: https://upload.wikimedia.org/wikipedia/commons/9/97/স্যাস_লোগো.png
     
   #- name: Sass
   #  web_url: https://github.com/topics/sass
