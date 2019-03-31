@@ -50,18 +50,52 @@ topics:
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
 
+  - name: Bash
+    web_url: https://github.com/topics/bash
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bash/bash.png
+
+  - name: C
+    web_url: https://github.com/topics/c
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/c/c.png
+
+  - name: Compiler
+    web_url: https://github.com/topics/compiler
+ 
+  - name: Continuous integration
+    web_url: https://github.com/topics/continuous-integration
+ 
   #- name: CSS
   #  web_url: https://github.com/topics/css
   #  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+  - name: Data visualization
+    web_url: https://github.com/topics/data-visualization
+ 
+  - name: Database
+    web_url: https://github.com/topics/database
+ 
+  - name: Git
+    web_url: https://github.com/topics/git
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
 
   - name: iOS
     web_url: https://github.com/topics/ios
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ios/ios.png
 
+  - name: Language parsing
+    web_url: https://github.com/topics/parsing
+ 
+  - name: macOS
+    web_url: https://github.com/topics/macos
+    image_url: https://raw.githubusercontent.com/github/explore/d8ae27ae1595c46559429174e7660c80fd92a767/topics/macos/macos.png
+
   - name: Markdown
     web_url: https://github.com/topics/markdown
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/markdown/markdown.png
 
+  - name: Project management
+    web_url: https://github.com/topics/project-management
+ 
   - name: Python
     web_url: https://github.com/topics/swift
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
@@ -70,6 +104,9 @@ topics:
     web_url: https://github.com/topics/r
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/r/r.png
     
+  - name: REST API
+    web_url: https://github.com/topics/rest-api
+ 
   - name: SAS
     web_url: https://github.com/topics/sas
     image_url: https://upload.wikimedia.org/wikipedia/commons/9/97/স্যাস_লোগো.png
@@ -78,9 +115,35 @@ topics:
   #  web_url: https://github.com/topics/sass
   #  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
+  - name: Scala
+    web_url: https://github.com/topics/scala
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/scala/scala.png
+
+  - name: Serverless
+    web_url: https://github.com/topics/serverless
+ 
+  - name: Shell
+    web_url: https://github.com/topics/shell
+ 
+  - name: Sketch
+    web_url: https://github.com/topics/sketch
+    image_url: https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png
+
+  - name: SQL
+    web_url: https://github.com/topics/sql
+    image_url: https://raw.githubusercontent.com/github/explore/5a90ece3593b9a5c492b815ed9f162edec073b28/topics/sql/sql.png
+
   - name: Swift
     web_url: https://github.com/topics/swift
     image_url: https://raw.githubusercontent.com/github/explore/8fb8b0e9d61d266721825ce116060773ea2503c2/topics/swift/swift.png
+
+  - name: Terrminal
+    web_url: https://github.com/topics/terminal
+    image_url: https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png
+
+  - name: Terraform
+    web_url: https://github.com/topics/terraform
+    image_url: https://raw.githubusercontent.com/github/explore/a78365e1ed698ba6441a91508591e863cf1f9590/topics/terraform/terraform.png
 
   #- name: Web design
 
