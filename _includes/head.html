@@ -1,17 +1,33 @@
 <head>
     <!-- Default head tags -->
     <meta charset="utf-8">
+    <!-- meta http-equiv="X-UA-Compatible" content="IE=edge" -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>{{ page_title }}</title>
+    <meta name="author" content="{{ site.author }}" />
     <meta name="description" content="{{ meta_description }}" />
-    <meta property="og:title" content="{{ user.name }}" />
-    <meta property="og:image" content="{{ user.avatar_url }}" />
-    <meta property="og:description" content="{{ meta_description }}" />
+
+    <title>{{ page_title }}</title>
     
+    <!-- CSS head tags -->
     <link rel="stylesheet" type="text/css" href="{{ "/assets/styles.css" | relative_url }}">
 
     <!-- Favicon head tags -->
     <link rel='mask-icon' href='favicon.svg' color='#000000'>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?ver=1">
+
+    <!-- Open Graph head tags ("Sharing is caring!") -->
+    <meta property="og:title" content="{{ user.name }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
+    <meta property="og:image" content="{{ user.avatar_url }}" />
+    <!-- 
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.title }} {{ site.description }}">
+    <meta property="og:image" content="{{ site.url }}/assets/images/share_card.png">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    -->
+
+    <!-- RSS head tag -->
+    <!-- link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" -->
 </head>
