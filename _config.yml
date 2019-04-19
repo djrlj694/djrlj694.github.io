@@ -1,3 +1,7 @@
+description: "A personal website that showcases my software projects and interests"
+sub-title: "A software developer's personal website"
+author: "Robert Jones"
+
 layout: sidebar
 style: dark
 
