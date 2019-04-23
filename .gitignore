@@ -1,6 +1,18 @@
+# General
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.zip
+*.vi
+
+# Diff
+*.patch
+*.diff
+
 # Jekyll
 _site/
-.sass-cache
 .jekyll-cache/
 .jekyll-metadata
 
@@ -9,10 +21,38 @@ _site/
 .dropbox.attr
 .dropbox.cache
 
-# macOS
+# macOS: General
 .DS_Store
+.AppleDouble
+.LSOverride
 
 # Ruby
 *.gem
 .bundle
 Gemfile.lock
+
+# Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# Vim: Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Vim: Session
+Session.vim
+
+# Vim: Temporary
+.netrwhist
+*~
+
+# Vim: Auto-generated tag files
+tags
+
+# Vim: Persistent undo
+[._]*.un~
