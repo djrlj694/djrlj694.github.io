@@ -56,3 +56,8 @@ tags
 
 # Vim: Persistent undo
 [._]*.un~
+
+# Windows: Thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
