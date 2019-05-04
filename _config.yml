@@ -1,3 +1,7 @@
+# REFERENCES:
+# 1. https://github.com/HugoGiraudel/sass-guidelines/blob/master/_config.yml
+
+# Site settings
 description: "A personal website that showcases my software projects and interests"
 sub-title: "A software developer's personal website"
 author: "Robert Jones"
@@ -5,12 +9,15 @@ author: "Robert Jones"
 layout: sidebar
 style: dark
 
+
+# Build settings
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jekyll-seo-tag
   - jemoji
 
+# Outputting
 permalink: /:year/:month/:day/:title/
 
 defaults:
