@@ -1,24 +1,73 @@
 # REFERENCES:
-# 1. https://github.com/HugoGiraudel/sass-guidelines/blob/master/_config.yml
+# 1. https://github.com/BrianMitchL/BrianMitchL.github.io/blob/master/_config.yml
+# 2. https://github.com/github/government.github.com/blob/gh-pages/_config.yml
+# 3. https://github.com/HugoGiraudel/sass-guidelines/blob/master/_config.yml
+# 4. https://github.com/plusjade/jekyll-bootstrap/blob/master/_config.yml
+# 5. https://jekyllrb.com/docs/configuration/default/
 
-# Site settings
+#==============================================================================#
+# Site Settings
+#==============================================================================#
+
+# Themes are encouraged to use these universal variables, 
+# so be sure to set them if your theme uses them.
+
+# SEO
+title: djrlj694
 description: "A personal website that showcases my software projects and interests"
+
 sub-title: "A software developer's personal website"
 author: "Robert Jones"
 
 layout: sidebar
 style: dark
 
+#==============================================================================#
+# Handling Reading
+#==============================================================================#
 
-# Build settings
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - README.md
+  - vendor
+
+#==============================================================================#
+# Plugins
+#==============================================================================#
+
 plugins:
-  - jekyll-octicons
+  - jekyll-feed
   - jekyll-github-metadata
+  - jekyll-octicons
+  - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jemoji
 
+#==============================================================================#
+# Conversion
+#==============================================================================#
+
+markdown: kramdown
+
+#==============================================================================#
 # Outputting
+#==============================================================================#
+
+# This is the default format. 
+# For more, see: http://jekyllrb.com/docs/permalinks/
 permalink: /:year/:month/:day/:title/
+
+timezone: America/New_York
+
+#==============================================================================#
+# Other/Custom
+#==============================================================================#
 
 defaults:
   -
