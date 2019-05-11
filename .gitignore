@@ -11,15 +11,15 @@
 *.patch
 *.diff
 
-# Jekyll
-_site/
-.jekyll-cache/
-.jekyll-metadata
-
 # Dropbox
 .dropbox
 .dropbox.attr
 .dropbox.cache
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
 
 # macOS: General
 .DS_Store
