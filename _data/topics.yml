@@ -16,9 +16,9 @@
 - name: Continuous integration
   web_url: https://github.com/topics/continuous-integration
 
-#- name: CSS
-#  web_url: https://github.com/topics/css
-#  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+- name: CSS
+  web_url: https://github.com/topics/css
+  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
 - name: Data visualization
   web_url: https://github.com/topics/data-visualization
@@ -63,9 +63,9 @@
   web_url: https://github.com/topics/sas
   image_url: https://upload.wikimedia.org/wikipedia/commons/9/97/স্যাস_লোগো.png
   
-#- name: Sass
-#  web_url: https://github.com/topics/sass
-#  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+- name: Sass
+  web_url: https://github.com/topics/sass
+  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 - name: Scala
   web_url: https://github.com/topics/scala
