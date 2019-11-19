@@ -1,6 +1,6 @@
 # References
 
-The following is a list of sources that I found helpful or inspirational when learning new topics, troubleshooting bugs, authoring documentation, etc.
+The following is a list of sources that were helpful or inspirational when learning new topics, troubleshooting bugs, authoring documentation, etc. while developing or maintaining [djrlj694.github.io](README.md).
 
 ## GitHub Pages
 1. https://benjamintravis.com/blog/jekyll-github-pages-from-wordpress
@@ -11,4 +11,3 @@ The following is a list of sources that I found helpful or inspirational when le
 
 ## Jekyll
 1. https://github.com/readium/readium.github.io/wiki/Website-Structure-and-Construction
-1. 
